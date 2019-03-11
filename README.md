@@ -7,7 +7,18 @@ $ git add .
 $ git commit -m "first commit"
 $ git remote add origin https://github.com/manh11117/testactionmailer.git
 $ git push -u origin master
+
 $ git add .
 $ git commit -m "second commit"
 $ git push -u origin master
+
+$ git add .
+$ git commit -m "third commit"
+$ git push -u origin master
+
+$ git add .
+$ git commit -m "fourth commit"
+$ git push -u origin master
+
+Ordinal number
 
